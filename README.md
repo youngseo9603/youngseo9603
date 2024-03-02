@@ -1,7 +1,7 @@
 # Hi, I'm Youngseo Lee! 
 
 ### 💁‍♂️ About Me 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zsa332)](https://www.acmicpc.net/user/youngseo9603)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngseo9603)](https://www.acmicpc.net/user/youngseo9603)
 - 🌱 I’m currently learning backend-end skills
 <br/><br/>
 
